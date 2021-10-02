@@ -1,0 +1,2 @@
+(this.webpackJsonpwebsite=this.webpackJsonpwebsite||[]).push([[0],{25:function(e,t,s){"use strict";s.r(t);var c=s(13),n=s.n(c),i=s(27),r=s(29),a=s(28),j=s(1),b=function(){return Object(j.jsxs)("div",{children:[Object(j.jsx)(i.a,{}),Object(j.jsx)(r.a,{h1:!0,children:" Shivom Srivastava "}),Object(j.jsx)(a.a,{children:" Very Nice Button "})]})};n.a.render(Object(j.jsx)(b,{}),document.getElementById("root"))}},[[25,1,2]]]);
+//# sourceMappingURL=main.502c9a8d.chunk.js.map
